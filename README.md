@@ -27,10 +27,10 @@ PySpark natively has machine learning and graph libraries.
 
 ### PYSPARK MODULES AND PACKAGES
 
-PySpark RDD (pyspark.RDD)
-PySpark DataFrame and SQL (pyspark.sql)
-PySpark Streaming (pyspark.streaming)
-PySpark MLib (pyspark.ml, pyspark.mllib)
-PySpark GraphFrames (GraphFrames)
-PySpark Resource (pyspark.resource) It’s new in PySpark 3.0
+1. PySpark RDD (pyspark.RDD)
+2. PySpark DataFrame and SQL (pyspark.sql)
+3. PySpark Streaming (pyspark.streaming)
+4. PySpark MLib (pyspark.ml, pyspark.mllib)
+5. PySpark GraphFrames (GraphFrames)
+6. PySpark Resource (pyspark.resource) It’s new in PySpark 3.0
 
