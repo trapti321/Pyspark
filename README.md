@@ -33,4 +33,4 @@ PySpark Streaming (pyspark.streaming)
 PySpark MLib (pyspark.ml, pyspark.mllib)
 PySpark GraphFrames (GraphFrames)
 PySpark Resource (pyspark.resource) It’s new in PySpark 3.0
-![image](https://user-images.githubusercontent.com/77958199/127736565-c8b7c308-426b-459f-9c90-f1d1474eb479.png)
+
