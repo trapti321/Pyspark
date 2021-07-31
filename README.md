@@ -25,3 +25,12 @@ PySpark also is used to process real-time data using Streaming and Kafka.
 Using PySpark streaming you can also stream files from the file system and also stream from the socket.
 PySpark natively has machine learning and graph libraries.
 
+### PYSPARK MODULES AND PACKAGES
+
+PySpark RDD (pyspark.RDD)
+PySpark DataFrame and SQL (pyspark.sql)
+PySpark Streaming (pyspark.streaming)
+PySpark MLib (pyspark.ml, pyspark.mllib)
+PySpark GraphFrames (GraphFrames)
+PySpark Resource (pyspark.resource) It’s new in PySpark 3.0
+![image](https://user-images.githubusercontent.com/77958199/127736565-c8b7c308-426b-459f-9c90-f1d1474eb479.png)
